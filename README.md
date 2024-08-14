@@ -5,3 +5,4 @@
 ## About me
 I'm 18 years old and love coding.
 
+<code><img src="https://img.icons8.com/fluency/96/null/python.png"/></code>
