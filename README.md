@@ -3,3 +3,6 @@
 
 ## < about />
 Ik ben een 19 jarige programmeur en cybersecurity hobbyist. Ik besteed mijn vrije tijd aan homelabbing, ctf's en eigen projecten programmeren.
+
+### < socials />
+[TryHackMe](https://tryhackme.com/p/5CH1Z0)
